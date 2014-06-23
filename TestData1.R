@@ -3,3 +3,4 @@
 a <- rnorm (100)
 plot(a)
 
+plot(a+a)
